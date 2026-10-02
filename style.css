@@ -6,8 +6,15 @@ body {
     linear-gradient(90deg, rgba(0,0,0,.25)50%, transparent 50%),
     linear-gradient(rgba(0,0,0,.25)50%, transparent 50%);
     background-size: 60px 60px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
     color:#2b2236;
+}
+
+h1 {
+    font-family:"Marck Script", 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family:"Marck Script", 'Times New Roman', Times, serif;
 }
 
 .page {
@@ -100,3 +107,8 @@ body {
 a, button { 
     cursor: url("Untitled_design__1_-removebg-preview.png") 0 0, pointer;
 }
+
+.title {
+    Font-size: 23px;
+}
+
