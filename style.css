@@ -1,0 +1,102 @@
+body {
+    margin:0;
+    padding: 20px;
+    background-color: #504e5a;
+    background-image:
+    linear-gradient(90deg, rgba(0,0,0,.25)50%, transparent 50%),
+    linear-gradient(rgba(0,0,0,.25)50%, transparent 50%);
+    background-size: 60px 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#2b2236;
+}
+
+.page {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 12px;
+    background: #ffffff;
+    border: 3px dotted #5b3c68;
+    border-radius: 6px;
+}
+
+.header {
+    width: 100%;
+    height: auto;
+    display:block
+}
+
+.box {
+   background-color: #ffffff;
+   max-width: 80%;
+   margin: 0 auto;
+   padding: 20px;
+   border-radius:12px;
+}
+
+.title {
+    margin: 8px 0 16px;
+}
+
+.layout {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 12px;
+}
+
+.panel {
+    background: #4c4b4d;
+    border: 5px solid #4c4b4d;
+    border-radius: 12px;
+    color:#ffffff; 
+    flex: 1;
+}
+
+.intro{
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+}
+
+.scroll {
+    max-height: 220px;
+    overflow-y: auto;
+}
+
+.avatar {
+    width: 12%;
+    height: auto;
+    display:block;
+}
+
+.decoration {
+    text-align: center;
+    font-size: 15px;
+}
+
+.bowimage {
+    width: 55%;
+    height: auto;
+    display:block;
+    align-self: start;
+}
+
+.other-fandoms {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    margin-top: 12px;
+}
+
+.image {
+    width: 22%;
+    height: auto;
+    flex-shrink: 0;
+}
+
+body {
+    cursor: url("Untitled_design__1_-removebg-preview.png") 0 0, auto;
+}
+
+a, button { 
+    cursor: url("Untitled_design__1_-removebg-preview.png") 0 0, pointer;
+}
