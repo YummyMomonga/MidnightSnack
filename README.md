@@ -1,11 +1,11 @@
 # Personal Website
-This is a website about me. I wrote about my interests, hobbies and fandoms. This was made on VSCode using HTML and CSS. I used Canva for the design and got the decorations on Pinterest. The faces are from Kaomoji | ⋆𐙚₊˚⊹♡ | Copy & Paste. 
+This is a website about me. I wrote about my interests, hobbies and fandoms. I made this because I wanted to try something new by studying how to use HTML and CSS, and I wanted to share and talk about my interests in a fun and different way.   
 
 ## Live demo
 https://yummymomonga.github.io/MidnightSnack/
 
 ## About
-It includes a short paragraph about my hobbies, a paragraph about my favourite manga series, Toilet-bound Hanako-kun, my opinions and experiences with Genshin Impact and Twisted Wonderland and a list of my other fandoms. It also has images from the mangas, Toilet-Bound Hanako-kun, The Case Study of Vanitas, and Witch Hat Atelier. The cursor is a paper aeroplane, and the favicon is a bow. I made this because I wanted to try something new by studying how to use HTML and CSS, and I wanted to share and talk about my interests in a fun and different way.   
+It includes a short paragraph about my hobbies, a paragraph about my favourite manga series, Toilet-Bound Hanako-kun, my opinions and experiences with Genshin Impact and Twisted Wonderland and a list of my other fandoms. It also has images from the mangas, Toilet-Bound Hanako-kun, The Case Study of Vanitas, and Witch Hat Atelier. The cursor is a paper aeroplane, and the favicon is a bow. This was made on VSCode using HTML and CSS. I used Canva for the design and got the decorations on Pinterest. The faces are from Kaomoji | ⋆𐙚₊˚⊹♡ | Copy & Paste. 
 
 ## Features
 - Custom cursor
@@ -18,8 +18,8 @@ It includes a short paragraph about my hobbies, a paragraph about my favourite m
 Download the files and open index.html in a browser.
 
 ## Built with
-CSS
-HTML
+- CSS
+- HTML
 
 ## Screenshots
 <img width="3440" height="1195" alt="image" src="https://github.com/user-attachments/assets/91b4c614-f296-42ab-8bd3-2cb0474509bc" />
