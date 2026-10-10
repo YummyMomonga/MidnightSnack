@@ -24,7 +24,8 @@ Download the files and open index.html in a browser.
 - HTML
 
 ## Screenshots
-<img width="3440" height="1195" alt="image" src="https://github.com/user-attachments/assets/91b4c614-f296-42ab-8bd3-2cb0474509bc" />
-<img width="3440" height="1198" alt="image" src="https://github.com/user-attachments/assets/bdfbdd25-e393-4a70-ad69-3d03896a85ea" />
+<img width="3418" height="1196" alt="image" src="https://github.com/user-attachments/assets/7bb19d23-cd26-4928-87dc-ad03dbf70f83" />
+<img width="3418" height="1191" alt="image" src="https://github.com/user-attachments/assets/f7ba32a8-5359-4df4-bb70-e9326bcee74d" />
+<img width="2022" height="361" alt="image" src="https://github.com/user-attachments/assets/fac4d0f6-2414-4102-a1c1-60c879ab45ad" />
+
 <img width="339" height="43" alt="image" src="https://github.com/user-attachments/assets/f270b79c-40b6-4d2f-82bb-be8f71c050a8" />
-<img width="2008" height="365" alt="image" src="https://github.com/user-attachments/assets/8796e44d-8309-4951-8703-5845d363248d" />
