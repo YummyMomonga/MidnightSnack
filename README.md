@@ -12,7 +12,9 @@ It includes a short paragraph about my hobbies, a paragraph about my favourite m
 - Custom favicon
 - 2 boxes where you scroll for extra information
 - 4 boxes of information
-- 4 images for decoration
+- 6 images for decoration
+- 2 moving spiders
+- Ghosts floating up from the bottom
 
 ## How to run
 Download the files and open index.html in a browser.
