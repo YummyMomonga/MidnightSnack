@@ -8,13 +8,7 @@ This is a website about me. I wrote about my interests, hobbies and fandoms. I m
 It includes a short paragraph about my hobbies, a paragraph about my favourite manga series, Toilet-Bound Hanako-kun, my opinions and experiences with Genshin Impact and Twisted Wonderland and a list of my other fandoms. It also has images from the mangas, Toilet-Bound Hanako-kun, The Case Study of Vanitas, and Witch Hat Atelier. The cursor is a paper aeroplane, and the favicon is a bow. This was made on VSCode using HTML and CSS. I used Canva for the design and got the decorations on Pinterest. The faces are from Kaomoji | ⋆𐙚₊˚⊹♡ | Copy & Paste. 
 
 ## Features
-- Custom cursor
-- Custom favicon
-- 2 boxes where you scroll for extra information
-- 4 boxes of information
-- 6 images for decoration
-- 2 moving spiders
-- Ghosts floating up from the bottom
+The features in my website include a custom cursor in the shape of a paper aeroplane, a bow favicon, 4 boxes for information, 2 of which are scroll ones, 6 images for decoration, 2 moving spiders and ghosts that float up from the bottom.
 
 ## How to run
 Download the files and open index.html in a browser.
